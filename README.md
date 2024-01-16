@@ -26,4 +26,7 @@ Christian Jorge R. Martin
 - Standards
 
 ctrl + shift + P: Preferences: Open User Settings JSON
-link guides: https://peps.python.org/pep-0008/#tabs-or-spaces
+link guides:
+https://peps.python.org/pep-0008/#tabs-or-spaces
+https://docs.python.org/3
+https://docs.python.org/3/library/stdtypes.html
